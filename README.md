@@ -16,6 +16,7 @@
 | ------- |
 | [1140-stone-game-ii](https://github.com/Thakshil/leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Thakshil/leetcode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Thakshil/leetcode/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Thakshil/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
 |  |
@@ -26,6 +27,7 @@
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Thakshil/leetcode/tree/master/1140-stone-game-ii) |
+| [1563-stone-game-v](https://github.com/Thakshil/leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Thakshil/leetcode/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Thakshil/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Thakshil/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -34,6 +36,7 @@
 | ------- |
 | [1140-stone-game-ii](https://github.com/Thakshil/leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Thakshil/leetcode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Thakshil/leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Thakshil/leetcode/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
@@ -50,6 +53,7 @@
 | ------- |
 | [1140-stone-game-ii](https://github.com/Thakshil/leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Thakshil/leetcode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Thakshil/leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Thakshil/leetcode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
