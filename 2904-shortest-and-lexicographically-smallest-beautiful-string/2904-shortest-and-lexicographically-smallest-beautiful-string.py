@@ -1,15 +1,17 @@
 class Solution:
     def shortestBeautifulSubstring(self, s: str, k: int) -> str:
         x=[]
-        y=[]
         for i in range(0,len(s)):
-            for j in range(i+k,len(s)+1):
-                z=s[i:j]
-                x.append(z)
-        for i in x:
-            if i.count("1")==k:
-                y.append([len(i),i])
-        y.sort()
+            if s[i]=="1":
+                x.append(i)
+        y=[]
+        for i in range(0,len(x)-k+1):
+            y.append(x[i:i+k])
         if y:
-            return y[0][1]
-        return ""
+            z=[]
+            for i in y:
+                z.append([len(s[i[0]:i[-1]+1]),s[i[0]:i[-1]+1]])
+            z.sort()
+            return z[0][1]
+        else:
+            return ""
