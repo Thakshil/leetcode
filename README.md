@@ -4,10 +4,12 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Thakshil/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Thakshil/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Thakshil/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [1927-sum-game](https://github.com/Thakshil/leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Thakshil/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Thakshil/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
