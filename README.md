@@ -9,6 +9,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Thakshil/leetcode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Thakshil/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Thakshil/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Thakshil/leetcode/tree/master/1927-sum-game) |
@@ -36,6 +37,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Thakshil/leetcode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Thakshil/leetcode/tree/master/0014-longest-common-prefix) |
 | [1140-stone-game-ii](https://github.com/Thakshil/leetcode/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Thakshil/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/Thakshil/leetcode/tree/master/1563-stone-game-v) |
@@ -143,4 +145,8 @@
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Thakshil/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Thakshil/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
