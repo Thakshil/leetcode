@@ -35,6 +35,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/Thakshil/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Thakshil/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Thakshil/leetcode/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Thakshil/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Thakshil/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Thakshil/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Array
@@ -47,6 +48,7 @@
 | [1563-stone-game-v](https://github.com/Thakshil/leetcode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Thakshil/leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Thakshil/leetcode/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Thakshil/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Thakshil/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Thakshil/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Thakshil/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
