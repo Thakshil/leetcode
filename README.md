@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Thakshil/leetcode/tree/master/0014-longest-common-prefix) |
+| [0115-distinct-subsequences](https://github.com/Thakshil/leetcode/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/Thakshil/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Thakshil/leetcode/tree/master/0205-isomorphic-strings) |
 | [0686-repeated-string-match](https://github.com/Thakshil/leetcode/tree/master/0686-repeated-string-match) |
@@ -24,6 +25,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Thakshil/leetcode/tree/master/0115-distinct-subsequences) |
 | [1140-stone-game-ii](https://github.com/Thakshil/leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Thakshil/leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Thakshil/leetcode/tree/master/1563-stone-game-v) |
