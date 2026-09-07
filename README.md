@@ -15,6 +15,7 @@
 | [0205-isomorphic-strings](https://github.com/Thakshil/leetcode/tree/master/0205-isomorphic-strings) |
 | [0686-repeated-string-match](https://github.com/Thakshil/leetcode/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/Thakshil/leetcode/tree/master/0796-rotate-string) |
+| [0940-distinct-subsequences-ii](https://github.com/Thakshil/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1903-largest-odd-number-in-string](https://github.com/Thakshil/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Thakshil/leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Thakshil/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -26,6 +27,7 @@
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Thakshil/leetcode/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/Thakshil/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/Thakshil/leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Thakshil/leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Thakshil/leetcode/tree/master/1563-stone-game-v) |
