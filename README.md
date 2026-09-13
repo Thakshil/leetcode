@@ -49,6 +49,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Thakshil/leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Thakshil/leetcode/tree/master/0014-longest-common-prefix) |
+| [0575-distribute-candies](https://github.com/Thakshil/leetcode/tree/master/0575-distribute-candies) |
 | [0835-image-overlap](https://github.com/Thakshil/leetcode/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/Thakshil/leetcode/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Thakshil/leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -138,6 +139,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Thakshil/leetcode/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/Thakshil/leetcode/tree/master/0205-isomorphic-strings) |
+| [0575-distribute-candies](https://github.com/Thakshil/leetcode/tree/master/0575-distribute-candies) |
 | [1386-cinema-seat-allocation](https://github.com/Thakshil/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Thakshil/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Thakshil/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
