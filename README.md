@@ -59,6 +59,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Thakshil/leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Thakshil/leetcode/tree/master/0014-longest-common-prefix) |
+| [0485-max-consecutive-ones](https://github.com/Thakshil/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0575-distribute-candies](https://github.com/Thakshil/leetcode/tree/master/0575-distribute-candies) |
 | [0835-image-overlap](https://github.com/Thakshil/leetcode/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/Thakshil/leetcode/tree/master/1140-stone-game-ii) |
