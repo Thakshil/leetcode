@@ -18,6 +18,7 @@
 | [0115-distinct-subsequences](https://github.com/Thakshil/leetcode/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/Thakshil/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Thakshil/leetcode/tree/master/0205-isomorphic-strings) |
+| [0678-valid-parenthesis-string](https://github.com/Thakshil/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/Thakshil/leetcode/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/Thakshil/leetcode/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Thakshil/leetcode/tree/master/0940-distinct-subsequences-ii) |
@@ -44,6 +45,7 @@
 | [0115-distinct-subsequences](https://github.com/Thakshil/leetcode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Thakshil/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Thakshil/leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Thakshil/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Thakshil/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/Thakshil/leetcode/tree/master/1140-stone-game-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Thakshil/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -59,6 +61,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/Thakshil/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1386-cinema-seat-allocation](https://github.com/Thakshil/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Thakshil/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Thakshil/leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -312,6 +315,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Thakshil/leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Thakshil/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Thakshil/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1096-brace-expansion-ii](https://github.com/Thakshil/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Thakshil/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Thakshil/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -322,6 +326,7 @@
 | [0020-valid-parentheses](https://github.com/Thakshil/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Thakshil/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Thakshil/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Thakshil/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Thakshil/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Thakshil/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Thakshil/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
