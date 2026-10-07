@@ -18,6 +18,7 @@
 | [0115-distinct-subsequences](https://github.com/Thakshil/leetcode/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/Thakshil/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Thakshil/leetcode/tree/master/0205-isomorphic-strings) |
+| [0301-remove-invalid-parentheses](https://github.com/Thakshil/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Thakshil/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/Thakshil/leetcode/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/Thakshil/leetcode/tree/master/0796-rotate-string) |
@@ -274,6 +275,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Thakshil/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Thakshil/leetcode/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Thakshil/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
@@ -312,6 +314,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Thakshil/leetcode/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/Thakshil/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Thakshil/leetcode/tree/master/1096-brace-expansion-ii) |
 ## Stack
 |  |
