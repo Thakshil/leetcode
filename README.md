@@ -124,6 +124,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Thakshil/leetcode/tree/master/0009-palindrome-number) |
 | [1140-stone-game-ii](https://github.com/Thakshil/leetcode/tree/master/1140-stone-game-ii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Thakshil/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/Thakshil/leetcode/tree/master/1510-stone-game-iv) |
