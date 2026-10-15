@@ -4,6 +4,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Thakshil/leetcode/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/Thakshil/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Thakshil/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Thakshil/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -87,6 +88,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Thakshil/leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Thakshil/leetcode/tree/master/0014-longest-common-prefix) |
+| [0075-sort-colors](https://github.com/Thakshil/leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Thakshil/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Thakshil/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0485-max-consecutive-ones](https://github.com/Thakshil/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -323,6 +325,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Thakshil/leetcode/tree/master/0075-sort-colors) |
 | [1096-brace-expansion-ii](https://github.com/Thakshil/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Thakshil/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Thakshil/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -375,4 +378,12 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Thakshil/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Thakshil/leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Thakshil/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
