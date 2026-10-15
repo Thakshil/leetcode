@@ -91,6 +91,7 @@
 | [0075-sort-colors](https://github.com/Thakshil/leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Thakshil/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Thakshil/leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0217-contains-duplicate](https://github.com/Thakshil/leetcode/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/Thakshil/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Thakshil/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0575-distribute-candies](https://github.com/Thakshil/leetcode/tree/master/0575-distribute-candies) |
@@ -204,6 +205,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Thakshil/leetcode/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/Thakshil/leetcode/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/Thakshil/leetcode/tree/master/0217-contains-duplicate) |
 | [0575-distribute-candies](https://github.com/Thakshil/leetcode/tree/master/0575-distribute-candies) |
 | [1096-brace-expansion-ii](https://github.com/Thakshil/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Thakshil/leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -326,6 +328,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Thakshil/leetcode/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/Thakshil/leetcode/tree/master/0217-contains-duplicate) |
 | [1096-brace-expansion-ii](https://github.com/Thakshil/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Thakshil/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Thakshil/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
