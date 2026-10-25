@@ -100,6 +100,7 @@
 | [0575-distribute-candies](https://github.com/Thakshil/leetcode/tree/master/0575-distribute-candies) |
 | [0835-image-overlap](https://github.com/Thakshil/leetcode/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/Thakshil/leetcode/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/Thakshil/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1386-cinema-seat-allocation](https://github.com/Thakshil/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Thakshil/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/Thakshil/leetcode/tree/master/1563-stone-game-v) |
@@ -318,11 +319,13 @@
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Thakshil/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Thakshil/leetcode/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/Thakshil/leetcode/tree/master/1254-number-of-closed-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Thakshil/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/Thakshil/leetcode/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/Thakshil/leetcode/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Thakshil/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Thakshil/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Tree
@@ -333,6 +336,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Thakshil/leetcode/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Thakshil/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -418,6 +422,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Thakshil/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Thakshil/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
