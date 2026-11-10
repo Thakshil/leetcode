@@ -37,6 +37,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Thakshil/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Thakshil/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Thakshil/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1880-check-if-word-equals-summation-of-two-words](https://github.com/Thakshil/leetcode/tree/master/1880-check-if-word-equals-summation-of-two-words) |
 | [1903-largest-odd-number-in-string](https://github.com/Thakshil/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Thakshil/leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Thakshil/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
