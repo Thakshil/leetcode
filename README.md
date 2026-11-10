@@ -4,6 +4,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Thakshil/leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Thakshil/leetcode/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/Thakshil/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Thakshil/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -54,6 +55,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Thakshil/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Thakshil/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Thakshil/leetcode/tree/master/0042-trapping-rain-water) |
 | [0115-distinct-subsequences](https://github.com/Thakshil/leetcode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Thakshil/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Thakshil/leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -99,6 +101,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Thakshil/leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Thakshil/leetcode/tree/master/0014-longest-common-prefix) |
+| [0042-trapping-rain-water](https://github.com/Thakshil/leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Thakshil/leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Thakshil/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Thakshil/leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -425,6 +428,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Thakshil/leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Thakshil/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Thakshil/leetcode/tree/master/0042-trapping-rain-water) |
 | [0678-valid-parenthesis-string](https://github.com/Thakshil/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Thakshil/leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Thakshil/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -502,4 +506,8 @@
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Thakshil/leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Thakshil/leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
