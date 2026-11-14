@@ -5,13 +5,10 @@ class Solution:
             for j in range(i+l,len(nums)+1):
                 x=nums[i:j]
                 if l<=len(x)<=r:
-                    a.append(x)
-        b=[]
-        for i in a:
-            if sum(i)>0:
-                b.append(sum(i))
-        if b:
-            return min(b)
+                    if sum(x)>0:
+                        a.append(sum(x))
+        if a:
+            return min(a)
         return -1
 
         
