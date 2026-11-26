@@ -208,6 +208,7 @@
 | [2029-stone-game-ix](https://github.com/Thakshil/leetcode/tree/master/2029-stone-game-ix) |
 | [2409-count-days-spent-together](https://github.com/Thakshil/leetcode/tree/master/2409-count-days-spent-together) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Thakshil/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3360-stone-removal-game](https://github.com/Thakshil/leetcode/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Thakshil/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Thakshil/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/Thakshil/leetcode/tree/master/3524-find-x-value-of-array-i) |
@@ -339,6 +340,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/Thakshil/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Thakshil/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Thakshil/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/Thakshil/leetcode/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/Thakshil/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Binary Search
 |  |
